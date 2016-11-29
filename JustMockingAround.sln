@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustMockingAround", "JustMockingAround\JustMockingAround.csproj", "{89DCBAAF-B02C-4686-A9F4-7122A09FC239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustMockingAround.Tests", "JustMockTestProject1\JustMockingAround.Tests.csproj", "{BC7AA85E-0CF8-44E4-8C4D-BEFF4700FCA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustMockingAround.Tests", "JustMockingAround.Tests\JustMockingAround.Tests.csproj", "{BC7AA85E-0CF8-44E4-8C4D-BEFF4700FCA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -8,8 +8,6 @@ namespace JustMockingAround.Interfaces
 {
     public interface IDependency
     {
-        byte[] GetData();
-
         void SaveData(byte[] bytes, DateTime timestamp);
 
         int GetCalculation1(int total);

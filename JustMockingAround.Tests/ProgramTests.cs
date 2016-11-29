@@ -59,13 +59,13 @@ namespace JustMockingAround.Tests
 
             Mock.Assert(() => Program.DoStuffInternal(total));
         }
-        
+
         [TestMethod]
         public void Program_CalculateResultAndAdd10_Adds10ToCalculation()
         {
             int calculation = 500;
             int calculationPlus10 = 510;
-            
+
             Mock.Arrange(() => Program.DoStuffInternal(Arg.AnyInt)).Returns(calculation);
 
             var result = Program.CalculateResultAndAdd10(default(int));
@@ -92,7 +92,7 @@ namespace JustMockingAround.Tests
 
             Mock.Assert(() => Dependency.GetCalculation2(total));
         }
-        
+
         [TestMethod]
         public void Program_DoStuffWithBytes_LogsBytesSavingMessage()
         {
