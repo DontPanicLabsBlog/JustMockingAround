@@ -1,0 +1,16 @@
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\JustMockingAround.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Telerik.JustMock.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\JustMockingAround.pdb
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Telerik.JustMock.xml
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\obj\Debug\JustMockingAround.Tests.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\JustMockingAround.Tests.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\bin\Debug\JustMockingAround.Tests.pdb
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\obj\Debug\JustMockingAround.Tests.dll
+c:\users\andrew\documents\JustMockingAround\JustMockTestProject1\obj\Debug\JustMockingAround.Tests.pdb
